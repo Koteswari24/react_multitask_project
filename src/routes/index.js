@@ -1,4 +1,4 @@
-import React from "react";
+
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { routesData } from "../utils/mock";
 import layoutHook from "../utils/hooks/layoutHook";
